@@ -28,15 +28,10 @@ Neural Networks and tuning the model to work well in test track.
 3. Run the python script **_"Run_Simulation.py"_** Using your Favourite IDE and make sure **_"model.h5"_** file in same directory as that of the script.
 
 
-## Demo
+<!-- ## Author -->
 
-**_Click Below Image To See The Project in Action_**<br><br>
-(https://github.com/venkma/MachineLearning-Fundamentals/blob/master/sc.png)](https://www.youtube.com/watch?v=yifmgYiCRBc&feature=youtube)
-
-## Author
-
-**[KOLLI VENKATA MADHUKAR ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)**<br>
-**[GUNTUKU SAI RISHITHA ](https://www.linkedin.com/in/sai-rishitha-guntuku-441046194/)**
+<!-- **[KOLLI VENKATA MADHUKAR ](https://www.linkedin.com/in/madhukar-kolli-2a512916b/)**<br> -->
+<!-- **[GUNTUKU SAI RISHITHA ](https://www.linkedin.com/in/sai-rishitha-guntuku-441046194/)** -->
 
 
 ## Acknowledgments
